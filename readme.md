@@ -8,4 +8,4 @@
 ## TODO
 * Here is the webpage for user study: **http://bambool.github.io/pie-logo/index.htm**  Please test it and report bug at any time.
 
-* Design survey for evaluation for the two phase in the user study.
+* Design survey for evaluation for the two phases in the user study.
